@@ -1,0 +1,16 @@
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.exe
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.deps.json
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.runtimeconfig.json
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.runtimeconfig.dev.json
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.dll
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\ref\Desafio6.dll
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\bin\Debug\net5.0\Desafio6.pdb
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfo.cs
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.dll
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\ref\Desafio6.dll
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.pdb
+C:\Users\gusta\Documents\Qodeless\Desafio_06\Desafio6\Desafio6\obj\Debug\net5.0\Desafio6.genruntimeconfig.cache
